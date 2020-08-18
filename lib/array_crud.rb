@@ -38,5 +38,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   i = array.index(2)
-  array[i]
+  array[i] = "Z"
 end
